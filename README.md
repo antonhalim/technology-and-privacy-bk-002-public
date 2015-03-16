@@ -4,11 +4,11 @@ languages: english
 resources: 7
 ---
 
-# Privacy
+# Technology and Privacy
 
 ![googling privacy](https://s3-us-west-2.amazonaws.com/web-dev-readme-photos/cultural-curriculum/privacy.jpg)
 
-## Contents 
+## Contents
 
 This lab is divided into four sections.
 
