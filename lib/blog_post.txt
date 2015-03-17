@@ -1,0 +1,51 @@
+* Is privacy important if you have nothing to hide?
+  Yes, privacy is important and everyone should has it. As this question might
+  seems misleading, for having nothing to hide is different from having privacy.
+  Nothing to hide seems more like someone who is open to public and society and
+  any status of himself is very much easy to access. However, privacy is a lot more
+  than that, it's safety and life concern of people. Let's say you have nothing to
+  hide about your relationship and where being, but I wouldn't think you would
+  expose your address, phone no, social-security, credit-cards, and all your private
+  information to be exposed and being used by any other as the fact of you have
+  nothing to hide.
+
+* Are Google/Facebook evil?
+  As in the fact now, No.
+
+* Does the government (NSA for example) have a responsibility to protect us from ourselves?
+  As I think of govenment in general, they do have responsibility of passing bills
+  in concern of people privacy, and protect the people from companies and any group
+  which is trying to breach people's privacy and government themselves not being the one who is doing
+  wrong of accessing people privacy and misusing it without letting them know in first hand,
+  eventhough they are doing it for the concern of everyone else.
+  NSA as another part of govenment agency, it's not in their interest protecting people's
+  privacy, but exploiting any information anywhere as possible as part of their concern.
+
+* Do programmers have a responsibility to make sure they build tools that are
+private by default or is it each individuals responsibility to take steps to
+protect their privacy only if they feel they need it?
+  Both hand is involved and has responsibility in taking care of the privacy.
+  But in my opinion, the programmers who create the program have more responsibility
+  and knowledge in handling all the data from the users. As far it goes, I don't see
+  that I have any idea where my information will be passed after I passed it to the program.
+  In most cases, I think people tend to trust on companies and programmers to handle
+  their privacy. As a user, I need to have knowledge and pick which company that will concern about
+  my privacy. The other hand, all programmers should have good practice, regulation and convention of
+  handling people's privacy.
+
+* Does wanting privacy imply you have something to hide?
+  Nope, eventhough I don't have anything to hide, I still need privacy. And anyone
+  who is aware of how much open and accessible internet and your information nowadays are,
+  know that how important privacy is.
+
+* If we’re only looking at metadata (who called whom when) and not the content
+of someones communication is that a violation of privacy?
+  Simply put, metadata is data that provides information about other data. It is
+  information that is generated as you use technology, and lets you know the who,
+  what, where, when, and how of a variety of activities.
+  I don't really know, unless the government passed some regulation about metadata,
+  and it's actually my first-time hearing it so I will give you my most naive answer.
+  So, I think it's a violation of privacy, in terms it contains some user's
+  information and we are trying to access and look at it. It's totally a violation of
+  privacy if programmer who is looking at the metadata is trying to collect some information
+  for his own purpose.
